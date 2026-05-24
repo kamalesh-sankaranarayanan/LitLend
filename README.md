@@ -19,12 +19,12 @@ The system simplifies library management and improves accessibility for users.
 ---
 
 ## Technologies Used
-- Python
-- Flask
+- java
+- springboot
 - HTML
 - CSS
 - JavaScript
-- SQLite / MySQL
+- MySQL
 
 ---
 
